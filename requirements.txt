@@ -1,0 +1,8 @@
+ipykernel
+easyocr 
+openpyxl 
+pillow
+pandas 
+os
+matplotlib
+cv2
