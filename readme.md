@@ -108,16 +108,6 @@ pip install matplotlib
 
 ---
 
-## Output Format
-
-| Image Name     | Extracted Text |
-| -------------- | -------------- |
-| car_01.jpg     | MH01AB1234     |
-| voltage_01.jpg | 93.2           |
-| voltage_02.jpg | 26.3           |
-
----
-
 ## Applications
 
 * Vehicle Number Plate Recognition
@@ -148,6 +138,5 @@ pip install matplotlib
 ---
 
 ## Author
-
 Shivam Singh
 
